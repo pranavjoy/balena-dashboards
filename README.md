@@ -7,7 +7,6 @@ You may be asking,*"What makes this dashboard project better than others?"*
 - Managed through balena.io
 - Multiple URLs/webpages to load
 - Custom timeout values for each URL
-- Support for remote screen control/support/viewing
 - Fast load/runtime due to multi-threaded creation of browser windows
 
 ## Getting Started
@@ -51,4 +50,3 @@ In order to view the device remotely from within your browser, enable the public
 
 - [ElectronJS](https://electronjs.org) - The web framework used
 - [balenaCloud](https://balena.io/) - IoT device management
-- [noVNC](https://github.com/novnc/noVNC) - Used to provide remote viewing/support through public device URL (enable in device settings)
